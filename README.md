@@ -34,5 +34,4 @@ IN THE END, THE APPLICATION OF MACHINE LEARNING ALGORITHMS IN EDUCATION WILL GRE
 
 
 
-
-
+READ MORE! : https://github.com/ynstf/predict-grades-to-support-students/files/9259705/Presantation.pdf
